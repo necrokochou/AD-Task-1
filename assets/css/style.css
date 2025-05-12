@@ -1,0 +1,78 @@
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    height: 100dvh;
+    font-family: "Fira Code";
+    background: linear-gradient(to bottom, rgb(240, 248, 255), rgb(202, 150, 200));
+    color: rgb(73, 61, 145);
+    /* background-image: url('assets/frieren_bg.jpg'); */
+    background-size: cover;
+    /* background-attachment: fixed; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    column-gap: 2rem;
+    height: max-content;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30rem;
+    background-color: rgba(255, 255, 255, 0.205);
+}
+
+.container > p {
+    width: 25rem;
+}
+
+.image {
+    display: flex;
+}
+
+.continue-button {
+    display: flex;
+    height: 50px;
+    width: max-content;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(187, 97, 184, 0.5);
+    cursor: pointer;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-inline: 10px;
+    border: none;
+    text-decoration: solid;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: white;
+}
+
+.continue-button:hover {
+    background-color: rgba(141, 79, 139, 0.75);
+}
+
+.rounded {
+    border-radius: 15px;
+}
+
+/* temp *//*
+body * {
+    outline-color: blue;
+    outline-style: dashed;
+    outline-width: 1px;
+}
