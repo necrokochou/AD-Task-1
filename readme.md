@@ -23,7 +23,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=necrokochou/AD-Task-1)
 
-[![wakatime](https://wakatime.com/badge/user/018f07eb-269b-4b7c-b3af-6bf4e57e5c82/project/e6d9f123-9de2-4218-8a2c-d4651498fc2a.svg)](https://wakatime.com/badge/user/018f07eb-269b-4b7c-b3af-6bf4e57e5c82/project/e6d9f123-9de2-4218-8a2c-d4651498fc2a)
+[![wakatime](https://wakatime.com/badge/github/necrokochou/AD-Task-1.svg)](https://wakatime.com/badge/github/necrokochou/AD-Task-1)
 
 ---
 
