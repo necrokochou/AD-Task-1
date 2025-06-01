@@ -1,15 +1,15 @@
 {
-    "name": "ramir/php-pages",
+    "name": "allen/ad-task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Ramir\\PhpPages\\": "src/"
+            "Allen\\AdTask1\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "zyx-0314-FJorn",
-            "email": "ramirezian037@gmail.com"
+            "name": "necrokochou",
+            "email": "togami.playz2905@gmail.com"
         }
     ],
     "require": {}
